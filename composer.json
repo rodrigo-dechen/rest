@@ -1,0 +1,13 @@
+{
+	"name": "rodrigo-dechen/rest",
+	"description": "Pacote para criação de seridor rest",
+	"require": {
+		"php": "^5.3.3 || ^7.0",
+		"lliure/llrequest": "^v1"
+	},
+	"autoload": {
+		"psr-4": {
+			"llRequest\\": "./src"
+		}
+	}
+}

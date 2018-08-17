@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "da506d71ab35f9419d6ffeac0caa3f5a",
+    "packages": [
+        {
+            "name": "lliure/llrequest",
+            "version": "v1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jomadee/llRequest.git",
+                "reference": "f39f8e20cfffc38d0bad4165a5eeaaa66181bd3a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jomadee/llRequest/zipball/f39f8e20cfffc38d0bad4165a5eeaaa66181bd3a",
+                "reference": "f39f8e20cfffc38d0bad4165a5eeaaa66181bd3a",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.3.3 || ^7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "llRequest\\": "./src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Pacote para conexão de rests Http e SOAP",
+            "time": "2017-02-20T13:45:56+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "platform-dev": []
+}
