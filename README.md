@@ -1,6 +1,6 @@
 # REST
 
-Pequena clase para criar use server rest
+Pequena classe para criar use server rest
 
 ## Server
 ````php
