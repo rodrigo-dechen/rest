@@ -44,20 +44,4 @@ abstract class Rest{
         return true;
     }
 
-    public function GET($_DATA){
-        throw new \Exception('Este verbo não foi implantado');
-    }
-
-    public function POST($_DATA){
-        throw new \Exception('Este verbo não foi implantado');
-    }
-
-    public function PUT($_DATA){
-        throw new \Exception('Este verbo não foi implantado');
-    }
-
-    public function DELETE($_DATA){
-        throw new \Exception('Este verbo não foi implantado');
-    }
-
 }
